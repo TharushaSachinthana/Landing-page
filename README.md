@@ -1,11 +1,11 @@
 
 # Landing Page
 
-Welcome to the official landing page for [CODSOFT INTERNSHIP PROGRAM]!
+Welcome to the test design  landing page !
 
 ## Overview
 
-Landing project is a Level 1 project of CODSOFT INTERNSHIP programme. This landing page serves as a central hub for information and resources related to the project.
+ This landing page serves as a central hub for information and resources related to the project.
 
 ## Features
 
@@ -42,15 +42,9 @@ We welcome contributions! Follow these steps to contribute to [landing -page]:
 
 If you encounter any issues or have questions, feel free to open an issue on our [issue tracker](https://github.com/TharushaSachinthana/landing-page/issues).
 
-## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Thanks to CODSOFT for inspiration and guidance.
-- Special thanks to our contributors!
 
----
-
-Feel free to replace the placeholders like `CODSOFT`, `TharushaSachinthana`, `landing page`, etc., with your actual project details. Also, add links to your project's logo and license file.
+- this is an example landing page to test my front end skills .........................
